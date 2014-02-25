@@ -7,7 +7,7 @@ Your Public Site
 # *Albert's Site*
 ![](http://i60.tinypic.com/r8thyt.jpg)
 :sunny:
-
+~~Cancel~~
 
 My name is **Al** and my favorite team is the *Baltimore Ravens* Here is a [link to their site!] (http://www.baltimoreravens.com)
 
