@@ -5,7 +5,6 @@ Your Public Site
 
 <p> To get started, open the index.html file to find instructions and examples. You'll start your editing there! <p/>
 # *Albert's Site*
-+LogicX2.github.io
 ![](http://i60.tinypic.com/r8thyt.jpg)
 :sunny:
 ~~Cancel~~
